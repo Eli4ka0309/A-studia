@@ -1,0 +1,878 @@
+@media (max-width: 1380px ) {
+    /*intro*/
+    .intro_inner {
+        padding: 0 35% 0 28px;
+
+    }
+
+    .img_rocket {
+        width: 50%;
+    }
+
+    .intro_title {
+        font-size: 56px;
+    }
+
+    .intro_subtitle {
+        margin-top: 23px;
+        font-size: 31px;
+    }
+
+    .btm_item {
+        margin-top: 53px;
+    }
+
+    .intro_btm {
+        padding: 18px 63px;
+        font-size: 21px;
+    }
+
+    .timer {
+        margin-left: 33px;
+
+    }
+
+    .timer_title {
+        font-size: 21px;
+    }
+
+    .timer_days,
+    .timer_hours,
+    .timer_minutes {
+        font-size: 20px;
+    }
+
+    .section {
+        padding: 24px 0 158px;
+    }
+
+    .section_title {
+        font-size: 33px;
+    }
+
+    .img_form {
+        top: -18px;
+        width: 30%;
+        left: 0;
+    }
+
+    .form_title {
+        font-size: 32px;
+    }
+
+    .form_subtitle {
+        font-size: 20px;
+    }
+
+    form {
+        margin: 13px 0 13px;
+    }
+
+    .name, .email, .button {
+        font-size: 16px;
+    }
+
+    label {
+        margin-bottom: 35px;
+    }
+
+    .section_about {
+        padding-top: 130px;
+    }
+
+    .about_num {
+        font-size: 24px;
+        padding: 15px 24px;
+    }
+
+    .about_title {
+        margin-top: 11px;
+        font-size: 22px;
+    }
+
+    .section_header {
+        padding: 0 0 50px;
+    }
+
+    .section_advant {
+        padding: 0 0 130px;
+    }
+
+    .accordion {
+        margin: 0 70px;
+    }
+
+    .accordion_title {
+        font-size: 22px;
+    }
+
+    .accordion_content {
+        font-size: 20px;
+
+    }
+
+    .section_info {
+        padding: 141px 0 153px;
+    }
+
+    .footer_img {
+        top: -56px;
+        right: -10px;
+        height: 95%;
+    }
+
+
+    .footer_btn {
+        font-size: 16px;
+    }
+
+
+    .footer_form {
+        margin: 23px 0 23px;
+    }
+
+    .fab {
+        font-size: 31px;
+        padding-left: 10px;
+    }
+}
+
+
+@media (max-width: 1091px ) {
+    /*header*/
+    .header_nav {
+        font-size: 1.1em;
+    }
+
+    /*intro*/
+    .intro_inner {
+        margin: 84px 0 61px;
+    }
+
+
+    .intro_subtitle {
+        font-size: 26px;
+    }
+
+    .btm_item {
+        margin-top: 34px;
+    }
+
+    .intro_btm {
+        padding: 15px 45px;
+    }
+
+
+    .timer_days,
+    .timer_hours,
+    .timer_minutes {
+        font-size: 15px;
+    }
+
+
+    /*section*/
+    .section_header {
+        padding: 0 0 27px;
+    }
+
+    /*card*/
+    .card_text {
+        font-size: 17px;
+    }
+
+    /*form*/
+    .img_form {
+        top: 0;
+        width: 32%;
+        left: 0;
+    }
+
+    .form_inner {
+        margin: auto 4%;
+    }
+
+    .form_item {
+        margin-left: 37%;
+
+    }
+
+    .form_title {
+        font-size: 26px;
+    }
+
+    .form_subtitle {
+        font-size: 18px;
+        margin-top: 18px;
+    }
+
+    form {
+        margin: 24px 0 14px;
+    }
+
+    .button {
+        font-size: 14px;
+        padding: 7px 25px;
+    }
+
+    .checkbox_txt {
+        font-size: 16px;
+    }
+
+    /*about*/
+    .section_about {
+        padding-top: 90px;
+    }
+
+    .about_num {
+        font-size: 20px;
+        padding: 13px 21px;
+    }
+
+    /*info*/
+    .section_info {
+        padding: 76px 0 100px;
+    }
+
+    /*accordion*/
+    .accordion_title {
+        font-size: 19px;
+    }
+
+    .accordion_content {
+        font-size: 16px;
+    }
+
+    /*footer*/
+    .footer_inner {
+        margin: 0 5%;
+        padding: 2em 2.5em;
+    }
+
+    .footer_btn {
+        padding: 7px 22px;
+        font-size: 15px;
+    }
+
+    .footer_img {
+        top: -47px;
+        right: 4px;
+        height: 90%;
+    }
+
+    input[type=checkbox i] {
+        margin: 10px 8px 7px 4px;
+    }
+
+    .fab {
+        font-size: 26px;
+        padding-left: 9px;
+    }
+
+}
+
+@media (max-width: 787px) {
+    /*header*/
+    .header {
+        padding-top: 15px;
+
+    }
+
+    .header_nav {
+        font-size: 18px;
+    }
+
+    .logo_icon {
+        max-width: 84px;
+
+    }
+
+    /*intro*/
+    .intro_title {
+        font-size: 50px;
+    }
+
+    .intro_inner {
+        padding: 0 35% 0 0;
+
+    }
+
+    .btm_item {
+        margin-top: 24px;
+    }
+
+
+    .timer {
+        padding: 15px 25px;
+
+    }
+
+    .timer_item {
+        margin-top: 7px;
+
+    }
+
+    .timer_days,
+    .timer_hours,
+    .timer_minutes {
+        font-size: 18px;
+        margin-left: 14px;
+    }
+
+    /*section*/
+    .section_title {
+        font-size: 31px;
+    }
+
+    /*info*/
+    .section_info {
+        padding: 48px 0 65px;
+    }
+
+    /*card*/
+    .card_text {
+        width: 45%;
+    }
+
+    /*form*/
+    .form_inner {
+        margin: 0;
+        padding: 1em 1.5em;
+
+    }
+
+    .form_item {
+        margin-left: 34%;
+    }
+
+    .form_feedback {
+        margin: 0;
+    }
+
+    .form_main {
+        margin: 0;
+    }
+
+    .img_form {
+        top: 0;
+        width: 28%;
+        left: 16px;
+    }
+
+    .form_subtitle {
+        margin: 12px 0;
+        font-size: 14px;
+    }
+
+    form {
+        margin: 13px 0 4px;
+    }
+
+    .form_checkbox {
+        margin: 0;
+        font-size: 13px;
+    }
+
+    .name,
+    .email {
+        padding: 5px 10px;
+        width: 37%;
+        font-size: 14px;
+
+    }
+
+    label {
+        margin-bottom: 22px;
+    }
+
+    .checkbox_txt {
+        font-size: 12px;
+    }
+
+    /*about*/
+    .about_inner {
+        margin: 0;
+        background-size: 160%;
+
+    }
+
+    .about_num {
+        font-size: 17px;
+        padding: 9px 16px;
+    }
+
+    .about_title {
+        margin-top: 7px;
+        font-size: 18px;
+    }
+
+    .about_subtitle {
+        font-size: 17px;
+        margin-top: 9px;
+    }
+
+    /*accordion*/
+    .accordion {
+        margin: 0 40px;
+    }
+
+    .accordion_title {
+        font-size: 14px;
+    }
+
+    .accordion_header {
+        font-size: 19px;
+    }
+
+    .accordion_content {
+        font-size: 16px;
+        padding: 0 39px 10px;
+
+    }
+
+    /*footer*/
+    .footer_inner {
+        margin: 0;
+        padding: 1em 2em;
+
+    }
+
+    .footer_email {
+        font-size: 14px;
+        padding: 5px 10px;
+        width: 50%;
+
+    }
+
+    .footer_btn {
+        font-size: 14px;
+        padding: 5px 25px;
+
+    }
+
+    .footer_img {
+        top: -19px;
+        right: 6px;
+        height: 85%;
+    }
+
+    .social {
+
+    }
+
+    .social_icon:first-child {
+        padding-left: 0;
+    }
+
+    .fab {
+        font-size: 20px;
+        padding-left: 7px;
+    }
+
+}
+
+@media (max-width: 625px) {
+    /* intro*/
+    .intro_btm {
+        margin-top: 35px;
+    }
+
+    .intro_title {
+        text-align: center;
+        font-size: 44px;
+
+    }
+
+    .intro_subtitle {
+        text-align: center;
+        font-size: 24px;
+
+    }
+
+    .intro_inner {
+        padding: 0;
+        margin: 67px 0 61px;
+
+    }
+
+    .img_rocket {
+        display: none;
+    }
+
+    .btm_item {
+        flex-direction: column-reverse;
+        align-items: center;
+        margin-top: 25px;
+    }
+
+    .timer {
+        margin: 0;
+        padding: 15px 39px;
+
+    }
+
+    /*card*/
+    .card_text {
+        width: 100%;
+    }
+
+    /*form*/
+    .img_form {
+        display: none;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        margin: 13px 0 9px;
+    }
+
+    label {
+        display: flex;
+        justify-content: center;
+    }
+
+    .form_inner,
+    .footer_inner {
+        margin: 0 auto;
+        width: 80%;
+        flex-direction: column;
+        justify-content: center;
+        padding: 1em 1.5em 0.5em;
+
+
+    }
+
+    .form_item {
+        padding: 0;
+        align-items: center;
+        width: 100%;
+        margin: 0 auto;
+
+    }
+
+    .form_title {
+        text-align: center;
+    }
+
+    .form_subtitle {
+        width: 100%;
+        text-align: center;
+    }
+
+    label {
+        display: unset;
+        margin: 0;
+    }
+
+    .form_text {
+        padding: 3px 11px;
+    }
+
+    .img_form {
+        display: none;
+    }
+
+    .name,
+    .email {
+        width: 60%;
+    }
+
+    .form_feedback {
+        margin: 0;
+    }
+
+    .form_main {
+        width: 89%;
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .name, .email {
+        padding: 6px 17px;
+        font-size: 15px;
+    }
+
+    .form_checkbox {
+        margin: 0;
+    }
+
+
+    /*about***************/
+    .about_inner {
+        background-size: 314%;
+    }
+
+    .about_item_1 {
+        grid-column-start: 4;
+        grid-row-start: 1;
+        grid-column-end: 9;
+
+    }
+
+    .about_item_2 {
+        grid-column-start: 1;
+        grid-column-end: 6;
+        grid-row-start: 2;
+
+    }
+
+    .about_item_3 {
+        grid-column-start: 4;
+        grid-column-end: 9;
+        grid-row-start: 3;
+
+    }
+
+    .about_item_4 {
+        grid-column-start: 2;
+        grid-column-end: 7;
+        grid-row-start: 5;
+    }
+
+    .about_item_2,
+    .about_item_3,
+    .about_item_4 {
+        margin-top: 28px;
+    }
+
+
+    /*accordion*/
+    .accordion {
+        margin: 0;
+    }
+
+
+    .footer_item {
+        width: 100%;
+    }
+
+    .footer_email {
+        width: 57%;
+
+    }
+
+    input[type=checkbox i] {
+        margin: 0;
+    }
+
+    .footer_img {
+        display: none;
+    }
+
+    .social {
+        justify-content: center;
+    }
+
+    .fa {
+        font-size: 20px;
+
+    }
+
+}
+
+@media (max-width: 425px ) {
+    .section_title {
+        font-size: 28px;
+    }
+
+    .section_advant {
+        padding: 0 0 61px;
+    }
+
+    /*accordion*/
+    .accordion_header {
+        font-size: 15px;
+        padding: 10px 0;
+
+    }
+
+    .accordion_header:after {
+        content: "➕";
+        font-size: 17px;
+    }
+
+
+    .form_inner, .footer_inner {
+        width: 100%;
+    }
+
+    .form_main {
+        width: 70%;
+    }
+
+    .name, .email {
+        width: 100%;
+    }
+
+    input[type=checkbox i] {
+        margin: 10px 8px 7px 4px;
+    }
+
+
+    .footer_inner {
+        margin: 0;
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 375px) {
+
+    /*intro*/
+    .intro_title {
+        font-size: 29px;
+    }
+
+    .intro_subtitle {
+        font-size: 17px;
+        margin-top: 8px;
+    }
+
+    .btm_item {
+        margin-top: 23px;
+    }
+
+    .timer_title {
+        font-size: 13px;
+    }
+
+    .timer_item {
+        margin-top: 7px;
+    }
+
+    .timer_days,
+    .timer_hours,
+    .timer_minutes {
+        font-size: 13px;
+
+    }
+
+    /*advant*/
+    .section_advant {
+        padding: 0 0 46px;
+    }
+
+    /*card*/
+    .card_text {
+        font-size: 13px;
+    }
+
+    /*form*/
+    .form_inner {
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    .form_item {
+        padding: 0 20px;
+
+    }
+
+    .form_subtitle {
+        margin-top: 8px;
+        font-size: 13px;
+        width: 100%;
+    }
+
+    .name,
+    .email {
+        padding: 4px 10px;
+    }
+
+    .checkbox_txt {
+        font-size: 10px;
+    }
+
+
+    /*about*/
+    .section_about {
+        padding-top: 56px;
+    }
+
+    .about_num {
+        font-size: 12px;
+        padding: 8px 14px;
+    }
+
+
+    /*info*/
+    .section_info {
+        padding: 25px 0 51px;
+    }
+
+    /*accordion*/
+    .accordion_title {
+        font-size: 13px;
+    }
+
+    .vector {
+        padding: 4px;
+        width: 6%;
+    }
+
+    .accordion_content {
+        font-size: 12px;
+    }
+
+    /*footer*/
+    .footer_email {
+        font-size: 11px;
+    }
+
+    .footer_btn {
+        font-size: 12px;
+        padding: 4px 26px;
+    }
+}
+
+@media (max-width: 320px) {
+    /*header*/
+    .logo_icon {
+        width: 16vw;
+    }
+
+    /*intro*/
+    .intro_subtitle {
+        font-size: 16px;
+    }
+
+    .timer_title,
+    .timer_days,
+    .timer_hours,
+    .timer_minutes,
+    .intro_btm,
+    .card_text,
+    .button,
+    .about_title,
+    .accordion_title,
+    .footer_btn {
+        font-size: 12px;
+    }
+
+    .about_subtitle,
+    .accordion_content,
+    .form_subtitle {
+        font-size: 11px;
+    }
+
+    .form_title {
+        font-size: 15px;
+    }
+
+    .name,
+    .email,
+    .footer_email {
+        width: 100%;
+    }
+
+    .fab {
+        font-size: 15px;
+        padding-left: 5px;
+    }
+
+}
+
+
